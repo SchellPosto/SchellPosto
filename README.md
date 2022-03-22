@@ -1,4 +1,11 @@
-## Olá! Eu me chamo Leonardo Schell! (Sim, parecido com o posto mesmo⛽) 
+## Hi there! I'm Leonardo Schell!
+⛽ -> Yeah, my name is like the Brazillian Gas Post...
+<br>
+😁-> Actually, I'm working as an english teacher
+<br>
+👀 -> I'm looking for an intern program where I'll be able to work and learn! Because as I always say...
+<br>
+"Nothing better than learn with experience..."
 
 <div align="center">
   <a href="https://github.com/SchellPosto">
